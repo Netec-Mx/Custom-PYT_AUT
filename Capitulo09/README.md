@@ -1,4 +1,4 @@
-# Laboratorio 9: Depuración y pruebas de scripts de automatización
+# Laboratorio 9: Depuración y pruebas de un script real
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Diagnosticar y corregir un procesador de CSV y un cliente de API que contienen e
 
 ## Duración aproximada:
 
-- 50 minutos.
+- 55 minutos.
 
 
 ## Instrucciones

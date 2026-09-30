@@ -1,4 +1,4 @@
-# Laboratorio 7: Monitoreo programado de archivos y notificaciones
+# Laboratorio 7: Automatización completa con alertas
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Desarrollar una automatización que revise periódicamente una carpeta, detecte 
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 50 minutos.
 
 
 ## Instrucciones

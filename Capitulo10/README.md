@@ -1,4 +1,4 @@
-# Laboratorio 10: Preparación y distribución de un proyecto Python
+# Laboratorio 10: Empaquetado y despliegue de un proyecto
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Transformar un script desarrollado previamente en un paquete instalable y reprod
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 60 minutos.
 
 
 ## Instrucciones

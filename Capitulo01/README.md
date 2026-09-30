@@ -1,4 +1,4 @@
-# Laboratorio 1: Verificación de la estructura de un proyecto
+# Laboratorio 1: Configuración del entorno y primer script de automatización
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Preparar un entorno profesional de Python y desarrollar un script que inspeccion
 
 ## Duración aproximada:
 
-- 30 minutos.
+- 35 minutos.
 
 ## Instrucciones
 

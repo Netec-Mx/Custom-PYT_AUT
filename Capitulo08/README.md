@@ -1,4 +1,4 @@
-# Laboratorio 8: Extracción web y evidencias con Selenium
+# Laboratorio 8: Automatización de una aplicación web
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Automatizar con Selenium la navegación en una página pública de demostración
 
 ## Duración aproximada:
 
-- 50 minutos.
+- 55 minutos.
 
 ## Instrucciones
 

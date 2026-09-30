@@ -1,4 +1,4 @@
-# Laboratorio 6: Limpieza y reporte de tickets de soporte
+# Laboratorio 6: Generación automática de reportes
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Construir un pipeline con pandas que cargue tickets desde CSV, valide columnas, 
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 50 minutos.
 
 ## Instrucciones
 

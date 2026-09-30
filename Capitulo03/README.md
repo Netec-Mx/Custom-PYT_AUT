@@ -1,4 +1,4 @@
-# Laboratorio 3: Biblioteca reutilizable para procesamiento de archivos
+# Laboratorio 3: Biblioteca reutilizable para automatización
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Construir un paquete de funciones reutilizables para crear directorios, listar a
 
 ## Duración aproximada:
 
-- 60 minutos.
+- 35 minutos.
 
 
 ## Instrucciones

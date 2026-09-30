@@ -1,4 +1,4 @@
-# Laboratorio 2: Consolidación y análisis de inventario tecnológico
+# Laboratorio 2: Procesamiento de archivos JSON y CSV
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Desarrollar un programa en Python que cargue registros de equipos desde archivos
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 40 minutos.
 
 ## Instrucciones
 

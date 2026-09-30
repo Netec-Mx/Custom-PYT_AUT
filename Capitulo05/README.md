@@ -1,4 +1,4 @@
-# Laboratorio 5: Cliente para consulta de países mediante una API REST
+# Laboratorio 5: Automatización mediante APIs REST
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Desarrollar un cliente en Python que lea una lista de códigos de país, consult
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 50 minutos.
 
 
 ## Instrucciones

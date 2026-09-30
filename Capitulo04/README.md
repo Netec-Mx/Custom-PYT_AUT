@@ -1,4 +1,4 @@
-# Laboratorio 4: Respaldo automatizado con trazabilidad
+# Laboratorio 4: Automatización de respaldos y limpieza de archivos
 
 ## Objetivo de la práctica:
 
@@ -10,7 +10,7 @@ Desarrollar una solución en Python que copie archivos importantes desde una car
 
 ## Duración aproximada:
 
-- 45 minutos.
+- 50 minutos.
 
 
 ## Instrucciones
